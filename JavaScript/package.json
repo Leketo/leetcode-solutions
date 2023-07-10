@@ -1,0 +1,14 @@
+{
+  "name": "leetcode-solutions",
+  "version": "1.0.0",
+  "description": "LeetCode problem solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/jest JavaScript/tests"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
